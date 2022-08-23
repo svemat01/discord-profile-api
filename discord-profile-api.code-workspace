@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "bot"
+		},
+		{
+			"path": "api"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
